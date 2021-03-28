@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Amandeep Verma
 
 You can use the [editor on GitHub](https://github.com/amandeep-verma/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
